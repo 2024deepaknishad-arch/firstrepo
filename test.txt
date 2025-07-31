@@ -1,4 +1,4 @@
 "this is D10B" 
 "this is my second change"
 "this is the third change" 
-thus is the fourth change
+this is the fourth change
